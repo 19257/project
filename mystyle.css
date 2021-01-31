@@ -1,12 +1,6 @@
-h1 { color: yellowgreen; }
+h1 { color: rgb(224, 79, 11) }
 
-th, td { border: dashed thick black; }
-
-th.important { color: red; }
-
-p.sample1 {border: double 10px #0000ff;}
-p.sample2 {border: inset 10px #ff0000;}
-p.sample3 {margin: 30px 30px;padding: 10px;border:
-medium solid #ff00ff;}
+p.sample {margin: 30px 30px;padding: 10px;border:
+medium solid #ddc123b4;}
 
 body{background-color: rgba(21, 136, 139, 0.37);}
